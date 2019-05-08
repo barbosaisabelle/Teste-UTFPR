@@ -10,8 +10,10 @@ Testando um parágrafo
 ### titulo 3
 
 ```
+
 if(nota > 6) {
 	printf ("Aprovado")
 }
+
 ```
 
